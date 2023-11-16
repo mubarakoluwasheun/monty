@@ -54,8 +54,8 @@ int check_mode(char *token, int *mode)
 
 /**
  * main - The entry point of the Monty Interpreter
- * @ac: The argument number
- * @av: The argument string/array
+ * @argc: The argument number
+ * @argv: The argument string/array
  * Return: int
  */
 int main(int argc, char **argv)
